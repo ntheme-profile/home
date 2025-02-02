@@ -1,4 +1,4 @@
-// This script could be used for smooth scrolling between sections.
+// Smooth Scroll for Navigation Links
 document.querySelectorAll('a').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault();
